@@ -6,6 +6,9 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+  -webkit-text-fill-color: rgb(7, 216, 0);
+ // -webkit-animation: color-change 5s infinite;
+
 }
 
 
@@ -95,7 +98,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $green-color;
   }
 
   &:hover {
