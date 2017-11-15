@@ -25,7 +25,7 @@ twitter_username: McKHAAANN
 github_username:  mckhaannn
 disqus:
     shortname: marcus-thuresson
-google-analytics: A-109443525-1
+google-analytics: UA-1410476-6
 # Build settings
 markdown: kramdown
 theme: minima
