@@ -1,8 +1,12 @@
 body {
-    background-image: url("/img/bild2.jpg");
+    background-image: url("/img/bild3.jpg");
+    background: rgba(245, 245, 245, 0.1);
     background-size: cover;
     width: 100vw;
     height: 100vh;
 }
 
+.page-content {
+    background: rgba(245, 245, 245, 0.3)
 
+}
