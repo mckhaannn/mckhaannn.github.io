@@ -7,18 +7,16 @@ body {
     height: 100vh;
 }
 
-header {
-    perspective: 1000px !important;
-}
-
-.page-content {
-    background: rgba(245, 245, 245, 0.3)
+.page-content, .footer-col-wrapper{
+    background: $opacity-background;
 
 }
 
-.footer-col-wrapper {
-    background: $opacity-background !important;
 
+.site-title {
+    font-size: 100px !important;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
 }
 
 
