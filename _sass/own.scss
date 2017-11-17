@@ -2,7 +2,7 @@
 body {
     background-image: url("/img/bild11.gif") !important;
     background-size: cover;
-    background: rgba(245, 245, 245, 0.1);
+    background: $opacity-background;
     width: 100vw;
     height: 100vh;
 }
