@@ -8,4 +8,4 @@ categories: jekyll update
 
 ### What do you think of static site generatiors?
 
-I have used Jekyll as static site generator on my website! I think that static site generators are good! its easy to setup, and its is dynamic, it's possible to include and separate code from body, footer, header etc. It is even faster and more secure than normal websites! And you can write text in markdown language, which then convert the text to html. This is why static site generators are great to make text based websites as blogs. 
+I have used Jekyll as static site generator on my website! I think that static site generators are good! it’s easy to setup and it's possible to include and separate code from body, footer, header etc. It is even faster and more secure than dynamic websites because it doesn't have to rely on a database server (which have slow request)! A disadvantage is the dependency on third-party provider to implement things such as comments.  And you can write text in markdown language, which then convert the text to html. Therefore, static site generators are great to make text based websites as blogs.
